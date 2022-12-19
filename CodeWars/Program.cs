@@ -11,7 +11,8 @@ namespace CodeWars
     {
         static void Main()
         {
-            int exam = int.Parse(Console.ReadLine());
+            int x = int.Parse(Console.ReadLine());
+            Console.WriteLine(Beginner_Series_4_Cockroach.CockroachSpeed(x));
         }
     }
 }
