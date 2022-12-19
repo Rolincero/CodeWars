@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CodeWars.Methods;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,8 +11,8 @@ namespace CodeWars
     {
         static void Main()
         {
-            int input = int.Parse(Console.ReadLine());
-
+            long input = long.Parse(Console.ReadLine());
+            Console.WriteLine(Find_next_perfect_square.FindNextSquare(input));
         }
     }
 }
