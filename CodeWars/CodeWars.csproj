@@ -49,6 +49,7 @@
     <Compile Include="Methods\Filling an Array.cs" />
     <Compile Include="Methods\Find next perfect square.cs" />
     <Compile Include="Methods\Function that does arithmetic.cs" />
+    <Compile Include="Methods\OddOrEven in array.cs" />
     <Compile Include="Methods\String ends with.cs" />
     <Compile Include="Methods\Student%27s Final Grade.cs" />
     <Compile Include="Program.cs" />
