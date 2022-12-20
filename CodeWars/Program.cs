@@ -11,10 +11,9 @@ namespace CodeWars
     {
         static void Main()
         {
-            int a = int.Parse(Console.ReadLine());
-            int b = int.Parse(Console.ReadLine());
-            string op = Console.ReadLine();
-            Console.WriteLine(Function_that_does_arithmetic.Arithmetic(a, b, op));
+            string str = Console.ReadLine();
+            string ending = Console.ReadLine();
+            Console.WriteLine(String_ends_with.Solution(str, ending));
         }
     }
 }
