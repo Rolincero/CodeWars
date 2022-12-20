@@ -11,8 +11,10 @@ namespace CodeWars
     {
         static void Main()
         {
-            int x = int.Parse(Console.ReadLine());
-            Console.WriteLine(Beginner_Series_4_Cockroach.CockroachSpeed(x));
+            int a = int.Parse(Console.ReadLine());
+            int b = int.Parse(Console.ReadLine());
+            string op = Console.ReadLine();
+            Console.WriteLine(Function_that_does_arithmetic.Arithmetic(a, b, op));
         }
     }
 }

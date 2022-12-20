@@ -46,6 +46,7 @@
     <Compile Include="Methods\Beginner Series 4 Cockroach.cs" />
     <Compile Include="Methods\Even Or Not.cs" />
     <Compile Include="Methods\Find next perfect square.cs" />
+    <Compile Include="Methods\Function that does arithmetic.cs" />
     <Compile Include="Methods\Student%27s Final Grade.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
