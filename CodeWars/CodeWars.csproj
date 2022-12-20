@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Methods\AlTeRnAtInG cAsE.cs" />
     <Compile Include="Methods\Beginner Series 4 Cockroach.cs" />
     <Compile Include="Methods\Even Or Not.cs" />
     <Compile Include="Methods\Find next perfect square.cs" />
