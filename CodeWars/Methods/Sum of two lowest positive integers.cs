@@ -16,7 +16,6 @@ namespace CodeWars.Methods
             tmp.RemoveAt(removal);
             var updNumbers = tmp.ToArray();
             return firstMin + updNumbers.Min();
-
         }
     }
 }

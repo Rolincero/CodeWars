@@ -48,6 +48,7 @@
     <Compile Include="Methods\Even Or Not.cs" />
     <Compile Include="Methods\Filling an Array.cs" />
     <Compile Include="Methods\Find next perfect square.cs" />
+    <Compile Include="Methods\Sum of the first nth term of Series.cs" />
     <Compile Include="Methods\Sum of two lowest positive integers.cs" />
     <Compile Include="Methods\Function that does arithmetic.cs" />
     <Compile Include="Methods\OddOrEven in array.cs" />

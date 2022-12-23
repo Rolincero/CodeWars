@@ -11,8 +11,8 @@ namespace CodeWars
     {
         static void Main()
         {
-            int[] numbers = { 11, 229, 4234, 4234, 18, 228 };
-            Console.WriteLine(Find_the_odd_int.sumTwoSmallestNumbers(numbers));
+            int input = int.Parse(Console.ReadLine());
+            Console.WriteLine(Sum_of_the_first_nth_term_of_Series.seriesSum(input));
         }
     }
 }
