@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CodeWars.Methods
 {
-    internal class AlTeRnAtInG_cAsE
+    internal static class AlTeRnAtInG_cAsE
     {
         public static string ToAlternatingCase(this string s)
         {
@@ -25,6 +25,7 @@ namespace CodeWars.Methods
             //return s;
 
             // TODO
+            return "-1";
         }
     }
 }
